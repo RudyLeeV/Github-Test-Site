@@ -260,6 +260,9 @@ git commit -m "Initial commit"
 
 ## 🛑 .gitignore Setup
 
+- 'Discard all untracked files:'
+  git clean -fd
+  
 - `touch .gitignore`  
   Creates a `.gitignore` file to specify files/folders to exclude from Git tracking.
 
