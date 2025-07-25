@@ -3,3 +3,8 @@
 git add .
 git commit -m "update stuff"
 git push
+
+# MAC vs Windows:
+# MAC: chmod +x update.sh
+# .\update.bat
+# Windows: update.bat
